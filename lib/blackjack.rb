@@ -40,8 +40,8 @@ def hit?(number)
   # code hit? here
   prompt_user
   get_user_input
-  # if user_input == h 
-  #   deal_card += number
+  if user_input == h 
+    deal_card += number
     
 end
 
