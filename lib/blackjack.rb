@@ -36,12 +36,14 @@ def initial_round
   sum
 end
 
-def hit?
+def hit?(number)
   # code hit? here
+  
 end
 
 def invalid_command
   # code invalid_command here
+  puts " Please enter a valid command"
 end
 
 #####################################################
